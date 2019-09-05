@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mi Parqueadero</string>
+    <string name="bienvenido">Bienvenido a Mi parqueadero</string>
+    <string name="tipo_vehiculos">Tipos de vehiculos</string>
 </resources>

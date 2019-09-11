@@ -7,4 +7,6 @@ public class ListaTipoVehiculoModel implements ListaTipoVehiculo.Model {
     public ListaTipoVehiculoModel(ListaTipoVehiculoPresenter listaTipoVehiculoPresenter) {
         presenter = listaTipoVehiculoPresenter;
     }
+
+
 }
